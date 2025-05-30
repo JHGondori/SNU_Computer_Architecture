@@ -1,0 +1,5 @@
+**/build
+**/Logs
+**/*.o
+**/.DS_Store
+**/*.vmh
